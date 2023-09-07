@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/company-site/static/css/main.652a93b8.css",
+    "main.js": "/company-site/static/js/main.afea4622.js",
+    "static/js/787.75aeb831.chunk.js": "/company-site/static/js/787.75aeb831.chunk.js",
+    "static/media/services-banner.png": "/company-site/static/media/services-banner.e8ffbdfdd2faeb7b36a5.png",
+    "static/media/home.jpg": "/company-site/static/media/home.968fa3e9a332e2805901.jpg",
+    "static/media/a.jpg": "/company-site/static/media/a.0bf397e73b5cc1df9f41.jpg",
+    "static/media/perksysinc.jpg": "/company-site/static/media/perksysinc.a15a10485ab2cd1e8b59.jpg",
+    "static/media/our-approach123.jpg": "/company-site/static/media/our-approach123.03e6d164ad39b9cde04d.jpg",
+    "static/media/services-300x199.jpg": "/company-site/static/media/services-300x199.4ce8c04e574dfdcb4bc8.jpg",
+    "index.html": "/company-site/index.html",
+    "main.652a93b8.css.map": "/company-site/static/css/main.652a93b8.css.map",
+    "main.afea4622.js.map": "/company-site/static/js/main.afea4622.js.map",
+    "787.75aeb831.chunk.js.map": "/company-site/static/js/787.75aeb831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.652a93b8.css",
+    "static/js/main.afea4622.js"
+  ]
+}
